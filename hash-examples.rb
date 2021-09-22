@@ -11,3 +11,11 @@ animal = {
   color: 'grey',
   size: 'large'
 }
+
+customer = {
+  name: 'Jane'
+  age: 25
+  location: 'Colorado'
+  country: 'USA'
+  interests: 'dinosaurs'
+}
