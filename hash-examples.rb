@@ -6,16 +6,16 @@ car = {
 }
 
 animal = {
-  name: 'elephant'
+  name: 'elephant',
   num_legs: 4,
   color: 'grey',
   size: 'large'
 }
 
 customer = {
-  name: 'Jane'
-  age: 25
-  location: 'Colorado'
-  country: 'USA'
+  name: 'Jane',
+  age: 25,
+  location: 'Colorado',
+  country: 'USA',
   interests: 'dinosaurs'
 }
